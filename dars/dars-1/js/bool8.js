@@ -1,0 +1,1 @@
+console.log(Math.trunc(11)==Math.trunc(11))

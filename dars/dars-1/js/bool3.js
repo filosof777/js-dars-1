@@ -1,0 +1,1 @@
+console.log(4 == Math.round(4));
